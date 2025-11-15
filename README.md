@@ -23,3 +23,12 @@ I'm Gian, a computer science student at **Florida International University**. I'
 
 **FIU ICPC team lead**
 - I hold weekly team meetings where we talk about some pretty interesting questions.
+
+
+<div align="center">
+<img src="https://leetcard.jacoblin.cool/gpena1?theme=unicorn&font=PT%20Mono" alt="LeetCode Stats">
+</div>
+
+
+
+$$ \frac{\partial V}{\partial t} + \frac{1}{2} \sigma^2 S^2 \frac{\partial^2 V}{\partial S^2} + rS \frac{\partial V}{\partial S} - rV = 0 $$
