@@ -21,7 +21,7 @@ I'm Gian, a computer science student at **Florida International University**. I'
 **High School Programming Competition Technical Lead** @ FIU Programming Team
 - I co-organize FIU's annual high school programming competition!
 
-**FIU ICPC team lead**
+**FIU ICPC team lead** @ FIU Programming Team
 - I hold weekly team meetings where we talk about some pretty interesting questions.
 
 
