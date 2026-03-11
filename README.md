@@ -14,6 +14,8 @@ I'm Gian, a computer science student at **Florida International University**. I'
 - I built some features for a case management platform used by many teams internally to organize and distribute cases.
 
 ## 🎯 Leadership
+**Director of Technology** @ INIT FIU
+- Starting January 2026, I'm part of the tech team, running INIT's technical operations, with my primary focus being on our discord bot to automate workflows for our members.
 
 **Reach Program Manager** @ INIT FIU
 - From January 2024 to December 2025, I ran technical interview prep workshops focused on data structures and algorithms in various languages.
