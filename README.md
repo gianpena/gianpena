@@ -28,7 +28,9 @@ I'm Gian, a computer science student at **Florida International University**. I'
 
 
 <div align="center">
-<img src="https://leetcard.jacoblin.cool/gpena1?theme=unicorn&font=PT%20Mono" alt="LeetCode Stats">
+<a href="https://leetcode.com/u/gpena1">
+    <img src="https://leetcard.jacoblin.cool/gpena1?theme=unicorn&font=PT%20Mono" alt="LeetCode Stats">
+</a>
 </div>
 
 <br>
