@@ -7,11 +7,16 @@ I'm Gian, a computer science student at **Florida International University**. I'
 ## 💼 Experience
 
 ### Software Engineering Intern @ Capital One
+**Summer 2026**
+- I built out a notification center for an internal case management platform used by over 50 fraud investigators.
+- Built out the UI + backend/notification dispatchment.
+
 **Summer 2025**
-- I worked on a mobile app (and its backend) used by over two thousand users, as well as an employee/agent-facing platform for the same app.
+- I worked on a mobile app (and its backend), as well as an employee/agent-facing platform for the same app.
+- Used by over 2,000 members
 
 **Summer 2024**
-- I built some features for a case management platform used by many teams internally to organize and distribute cases.
+- I built some UI features for a case management platform used by many teams internally to organize and distribute cases.
 
 ## 🎯 Leadership
 **Director of Technology** @ INIT FIU
